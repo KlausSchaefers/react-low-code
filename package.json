@@ -1,5 +1,5 @@
 {
-  "name": "reactnative-low-code",
+  "name": "react-low-code",
   "version": "0.0.1",
   "description": "React low code rendered for figma and quant-ux",
   "main": ".dist/index.js",
@@ -17,7 +17,7 @@
     "low-code"
   ],
   "author": "Klaus Schaefers",
-  "license": "BSD-2-Clause",
+  "license": "BSD-2-Clauseno",
   "bugs": {
     "url": "https://github.com/KlausSchaefers/react-low-code/issues"
   },
